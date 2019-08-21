@@ -9,7 +9,7 @@ class FlutterGoogleSignIn extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Google Sign In"),
+          title: Text("Google Sign In Tegar"),
         ),
         body: Center(
             child: Column(
